@@ -6,7 +6,7 @@ Vue wrapper for [zDog](https://github.com/metafizzy/zdog)
 
 # Usage
 
-## with a Vue-cli
+## with Vue-CLI
 
 Import components and use them in the template
 ```js
@@ -23,9 +23,9 @@ export default {
 
 <template>
 
-<ZIllustration>
-  <ZRect/>
-</ZIllustration>
+  <ZIllustration>
+    <ZRect/>
+  </ZIllustration>
 
 </template>
 ```
