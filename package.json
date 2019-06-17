@@ -11,7 +11,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "bili --format cjs --format umd --format esm --format umd-min --format esm-min"
+    "build": "bili --format cjs --format umd --format esm --format umd-min --format esm-min",
+    "gh-pages": "gh-pages -d examples"
   },
   "repository": {
     "type": "git",
@@ -37,5 +38,8 @@
     "rollup-plugin-vue": "^5.0.0",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
