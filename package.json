@@ -1,0 +1,41 @@
+{
+  "name": "vue-zdog",
+  "version": "0.0.3",
+  "description": "Vue wrapper for zDog",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "unpkg": "dist/index.umd.js",
+  "jsdelivr": "dist/index.umd.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "bili --format cjs --format umd --format esm --format umd-min --format esm-min"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreBonaventure/vue-zdog.git"
+  },
+  "keywords": [
+    "vuejs",
+    "zDog",
+    "3D",
+    "colorful"
+  ],
+  "author": "Alexandre Geissmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexandreBonaventure/vue-zdog/issues"
+  },
+  "homepage": "https://github.com/AlexandreBonaventure/vue-zdog#readme",
+  "peerDependencies": {
+    "zdog": "1.x"
+  },
+  "devDependencies": {
+    "bili": "^4.8.0",
+    "rollup-plugin-vue": "^5.0.0",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
