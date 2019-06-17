@@ -3,6 +3,7 @@ Vue wrapper for [zDog](https://github.com/metafizzy/zdog)
 
 # Demo
 [See here](https://alexandrebonaventure.github.io/vue-zdog)
+-
 [source](https://github.com/AlexandreBonaventure/vue-zdog/blob/master/examples/index.html)
 
 # Installation
