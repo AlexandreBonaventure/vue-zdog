@@ -2,12 +2,12 @@
 Vue wrapper for [zDog](https://github.com/metafizzy/zdog)
 
 # Demo
-(See here)[https://alexandrebonaventure.github.io/vue-zdog/]
-(source)[https://github.com/AlexandreBonaventure/vue-zdog/blob/master/examples/index.html]
+[See here](https://alexandrebonaventure.github.io/vue-zdog)
+[source](https://github.com/AlexandreBonaventure/vue-zdog/blob/master/examples/index.html)
 
 # Installation
 `yarn add vue-zdog`
-This plugin requires Vue and zDog as a peer dependencie. If you are using a bundler please make sure to add them to your package.json / if you are using it directly in the browser make sure those two are loaded before `vue-zdog` (see example source (here)[https://github.com/AlexandreBonaventure/vue-zdog/blob/master/examples/index.html])
+This plugin requires Vue and zDog as a peer dependencie. If you are using a bundler please make sure to add them to your package.json / if you are using it directly in the browser make sure those two are loaded before `vue-zdog` (see example source [here](https://github.com/AlexandreBonaventure/vue-zdog/blob/master/examples/index.html))
 
 # Usage
 
