@@ -38,7 +38,7 @@ export const ZPolygon = ZShapeFactory("Polygon", {
   sides: { required: true, type: Number }
 });
 
-export const ZPath = ZShapeFactory("Path", {
+export const ZPath = ZShapeFactory("Shape", {
   ...commonShapeProps,
   path: { required: true, type: Array },
   closed: { type: Boolean }
