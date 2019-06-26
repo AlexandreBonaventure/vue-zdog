@@ -10,6 +10,7 @@ const commonShapeProps = {
 };
 
 export const ZAnchor = ZShapeFactory("Anchor", {});
+export const ZGroup = ZShapeFactory("Group", {});
 
 export const ZRect = ZShapeFactory("Rect", {
   ...commonShapeProps,

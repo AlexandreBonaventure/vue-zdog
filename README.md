@@ -63,6 +63,7 @@ WIP
 `vue-zdog` is meant to expose as vue components all the shapes provided by zdog:
 
 - Anchor
+- Group
 - Rect
 - RoundedRect
 - Ellipse
