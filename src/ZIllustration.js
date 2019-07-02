@@ -5,7 +5,10 @@ const props = {
   resize: { type: [Boolean, String] },
   dragRotate: { type: Boolean },
   zoom: { type: Number },
-  centered: { type: Boolean, default: true }
+  centered: { type: Boolean, default: true },
+  translate: { type: Object }, // TODO add custom validators
+  rotate: { type: Object },
+  scale: { type: Object }
 };
 export default {
   name: "ZIllustration",
