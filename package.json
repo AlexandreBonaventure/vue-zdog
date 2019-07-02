@@ -1,6 +1,6 @@
 {
   "name": "vue-zdog",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Vue wrapper for zDog",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
