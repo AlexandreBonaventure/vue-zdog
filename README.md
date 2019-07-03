@@ -53,6 +53,9 @@ This is the root component under which all the shapes will be created
 - dragRotate
 - zoom
 - centered
+- translate
+- rotate
+- scale
 
 ### Auto-rendering
 
