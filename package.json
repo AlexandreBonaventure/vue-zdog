@@ -31,8 +31,8 @@
   },
   "homepage": "https://github.com/AlexandreBonaventure/vue-zdog#readme",
   "peerDependencies": {
-    "zdog": "1.x",
-    "vue": "2.x"
+    "vue": "2.x",
+    "zdog": "1.x"
   },
   "devDependencies": {
     "bili": "^4.8.0",
